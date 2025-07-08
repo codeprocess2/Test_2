@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Untitled project</name>
+	<gx:CascadingStyle kml:id="__managed_style_2E14B89A0838F0A513FC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1A45C701ED38F0A513FC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_073925364A38F0A513FC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A45C701ED38F0A513FC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E14B89A0838F0A513FC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0C3284A02838F0A513EF">
+		<name>thapar star drone</name>
+		<LookAt>
+			<longitude>76.36709883545072</longitude>
+			<latitude>30.35322314874743</latitude>
+			<altitude>274.4981424567604</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3614.789150555735</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_073925364A38F0A513FC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						76.36476773125352,30.35651022009452,0 76.36547700498933,30.35449987780415,0 76.36214584427557,30.35459859632993,0 76.36536538615482,30.35329670319075,0 76.36379917575752,30.35192213961754,0 76.36636084105807,30.35263529595954,0 76.36738296542111,30.35003566011235,0 76.36809135018987,30.35280714674618,0 76.37124504135758,30.35214481042771,0 76.36962886195708,30.35341936646204,0 76.37195756413151,30.35435091122339,0 76.36937303666848,30.35437606311548,0 76.3702553114715,30.3565357369174,0 76.36840735011762,30.35516229838334,0 76.36741150347487,30.3569022152873,0 76.36692807758317,30.35504043089589,0 76.36476773125352,30.35651022009452,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
