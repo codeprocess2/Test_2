@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Folder><name>Drone 1 Path</name><Placemark><name>Drone 1 Route</name><LineString><coordinates>76.36549783292425,30.355737313332675,0
+76.36476918657581,30.354396174413147,0
+76.36482785949093,30.35381109041114,0
+76.36390171006948,30.354164209507857,0
+76.36379166508762,30.354023539561638,0</coordinates></LineString></Placemark><Placemark><name>Point 0</name><Point><coordinates>76.36549783292425,30.355737313332675,0</coordinates></Point></Placemark><Placemark><name>Point 2</name><Point><coordinates>76.36476918657581,30.354396174413147,0</coordinates></Point></Placemark><Placemark><name>Point 8</name><Point><coordinates>76.36482785949093,30.35381109041114,0</coordinates></Point></Placemark><Placemark><name>Point 3</name><Point><coordinates>76.36390171006948,30.354164209507857,0</coordinates></Point></Placemark><Placemark><name>Point 7</name><Point><coordinates>76.36379166508762,30.354023539561638,0</coordinates></Point></Placemark></Folder></Document></kml>
