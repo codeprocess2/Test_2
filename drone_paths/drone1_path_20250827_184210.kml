@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drone 1 Mission Plan</name>
+    <Folder>
+      <name>Drone 1 Path</name>
+      <Placemark>
+        <name>Drone 1 Route</name>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>76.36476773125352,30.35651022009452,0
+76.36547700498933,30.35449987780415,0
+76.36214584427557,30.35459859632993,0
+76.36379917575752,30.35192213961754,0
+76.36738296542111,30.35003566011235,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Drone 1 - Waypoint 1</name>
+        <description>Original index: 0
+Lat: 30.356510
+Lon: 76.364768</description>
+        <Point>
+          <coordinates>76.36476773125352,30.35651022009452,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drone 1 - Waypoint 2</name>
+        <description>Original index: 1
+Lat: 30.354500
+Lon: 76.365477</description>
+        <Point>
+          <coordinates>76.36547700498933,30.35449987780415,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drone 1 - Waypoint 3</name>
+        <description>Original index: 2
+Lat: 30.354599
+Lon: 76.362146</description>
+        <Point>
+          <coordinates>76.36214584427557,30.35459859632993,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drone 1 - Waypoint 4</name>
+        <description>Original index: 4
+Lat: 30.351922
+Lon: 76.363799</description>
+        <Point>
+          <coordinates>76.36379917575752,30.35192213961754,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drone 1 - Waypoint 5</name>
+        <description>Original index: 6
+Lat: 30.350036
+Lon: 76.367383</description>
+        <Point>
+          <coordinates>76.36738296542111,30.35003566011235,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
