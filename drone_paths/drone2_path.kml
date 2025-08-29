@@ -12,7 +12,7 @@
             <width>3</width>
           </LineStyle>
         </Style>
-        <LineString>
+        <Polygon>
           <tessellate>1</tessellate>
           <coordinates>76.36536538615482,30.35329670319075,0
 76.36636084105807,30.35263529595954,0
@@ -26,7 +26,7 @@
 76.36741150347487,30.3569022152873,0
 76.36692807758317,30.35504043089589,0
 76.36476773125352,30.35651022009452,0</coordinates>
-        </LineString>
+        </Polygon>
       </Placemark>
     </Folder>
   </Document>
